@@ -1,8 +1,6 @@
 # Query-Similarity
 
-Model | Embedding | Acc 
----|---|---
-ESSM|GloVe 50d | 0.69
-ESSM|GloVe 100d | 0.69
-ESSM|GloVe 300d | 0.69
-ESSM|Tencent 200d | 0.69
+ESIM | GloVe 50d | GloVe 100d| GloVe 300d| Tencent 200d| 
+---|---|---|---|---
+Acc |0.69 | 0.69 | 0.69 | 0.69
+Hit_percent(embedding)|1.368%|1.368%|1.368%|92.8%
